@@ -1,9 +1,9 @@
-module github.com/krakendio/krakend-pubsub/v2
+module github.com/davron112/krakend-pubsub/v2
 
 go 1.17
 
 require (
-	github.com/luraproject/lura/v2 v2.0.5
+	github.com/davron112/lura/v2 v2.0.5
 	gocloud.dev v0.25.0
 	gocloud.dev/pubsub/kafkapubsub v0.25.0
 	gocloud.dev/pubsub/natspubsub v0.25.0
@@ -70,7 +70,7 @@ require (
 	github.com/jcmturner/rpc/v2 v2.0.3 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/klauspost/compress v1.15.6 // indirect
-	github.com/krakendio/flatmap v1.1.1 // indirect
+	github.com/davron112/flatmap v1.1.1 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/nats-io/nats.go v1.13.1-0.20220121202836-972a071d373d // indirect
 	github.com/nats-io/nkeys v0.3.0 // indirect
